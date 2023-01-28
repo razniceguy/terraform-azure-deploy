@@ -1,0 +1,1 @@
+az ad sp create-for-rbac --name "terraform" --role contributor --scopes /subscriptions/cda40fa9-8377-489c-ad60-c9530bc7edf0 --sdk-auth
